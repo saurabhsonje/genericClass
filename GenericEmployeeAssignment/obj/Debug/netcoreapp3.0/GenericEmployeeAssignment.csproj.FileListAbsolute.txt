@@ -1,0 +1,11 @@
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\obj\Debug\netcoreapp3.0\GenericEmployeeAssignment.csprojAssemblyReference.cache
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\obj\Debug\netcoreapp3.0\GenericEmployeeAssignment.AssemblyInfoInputs.cache
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\obj\Debug\netcoreapp3.0\GenericEmployeeAssignment.AssemblyInfo.cs
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\bin\Debug\netcoreapp3.0\GenericEmployeeAssignment.exe
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\bin\Debug\netcoreapp3.0\GenericEmployeeAssignment.deps.json
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\bin\Debug\netcoreapp3.0\GenericEmployeeAssignment.runtimeconfig.json
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\bin\Debug\netcoreapp3.0\GenericEmployeeAssignment.runtimeconfig.dev.json
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\bin\Debug\netcoreapp3.0\GenericEmployeeAssignment.dll
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\bin\Debug\netcoreapp3.0\GenericEmployeeAssignment.pdb
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\obj\Debug\netcoreapp3.0\GenericEmployeeAssignment.dll
+C:\Projects\GenericEmployeeAssignment\GenericEmployeeAssignment\obj\Debug\netcoreapp3.0\GenericEmployeeAssignment.pdb
